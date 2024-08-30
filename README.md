@@ -1,12 +1,15 @@
-- 👋 Hi, I’m @claiton828
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### Claiton Rodrigues prazer em conhece-los e bem vindo ao meu perfil 🖤
 
-<!---
-claiton828/claiton828 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Meu nome é Claiton Rodrigues 
+
+- Estou estudando no COLEGIO Pimpão que o arthur game play MANDA!!!!
+- Estou estudando alura
+- Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
+
+### VOCÊ PODE ENTRAR EM CONTATO COMIGO 📫
+ 
+Claiton.rodrigues@escola.pr.gov.br
+
+@Claiton_cks.
+
+![_](https://media1.tenor.com/m/opEBWw0uddoAAAAC/umm.gif)
